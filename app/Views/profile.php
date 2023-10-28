@@ -7,7 +7,7 @@
     <link rel="stylesheet" href="<?= base_url('assets/css/style.css') ?>">
 </head>
 <body>
-    <center><img src="<?= base_url('assets/foto.jpg')?>" width="25%" height="25%" alt="" ><br></center>
+    <center><img src="<?= base_url('assets/foto.jpg')?>" width="300px" height="450px" alt="" ><br></center>
     <div><center>
         <table>
         <div class="outlined-box">
