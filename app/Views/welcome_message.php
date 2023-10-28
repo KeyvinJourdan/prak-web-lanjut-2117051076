@@ -150,7 +150,7 @@
         .further h2:first-of-type {
             padding-top: 0;
         }
-        footer {
+        footer { 
             background-color: rgba(221, 72, 20, .8);
             text-align: center;
         }
